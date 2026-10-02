@@ -1,2 +1,1 @@
-main source: https://cdn.discordapp.com/attachments/1554895106815959164/1555471922077368330/Screenshot_20261002-004952.jpg?backend=b2&ex=6ac0a59d&is=6abf541d&hm=938aa74a858988fb19909591925eae0383303bf6c17f4e825e7693f9fd9f441e&
-preview: https://media.discordapp.net/attachments/1550770199182188634/1551522234017783919/image.png?ex=6ab2472e&is=6ab0f5ae&hm=ada4929e7685ac1183b5cbc018ffb8b7f12575b6b1c33527b608612171b289af&=&format=webp&quality=lossless
+<img width="1223" height="2004" alt="Screenshot_20261002-004952" src="https://github.com/user-attachments/assets/0a35015f-482e-4549-8ca3-f2f311802099" />
